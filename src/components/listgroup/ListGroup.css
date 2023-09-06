@@ -1,0 +1,9 @@
+.list-group {
+    list-style: none;
+    font-weight: 400;
+    color: chocolate;
+}
+
+.container {
+    background-color: bisque;
+}
